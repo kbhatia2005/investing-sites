@@ -23,13 +23,13 @@ I worked with multiple clients to deliver complete investing platforms. I purcha
 ## 📸 Proof of Work
 
 ### 🔹 User Dashboard
-![User Dashboard](investsiteproof.png)
+![User Dashboard](investsiteproof.PNG)
 
 ### 🔹 Video Proof
 ![Admin Panel](images/admin-panel.png)
 
 ### 🔹 Client Discussion (Blurred)
-![Client Chat](clientproof.png)
+![Client Chat](clientproof.PNG)
 
 ## 🧠 What I Learned
 - Real client project deployment
