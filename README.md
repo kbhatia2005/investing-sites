@@ -26,7 +26,7 @@ I worked with multiple clients to deliver complete investing platforms. I purcha
 ![User Dashboard](investsiteproof.PNG)
 
 ### 🔹 Video Proof
-![Admin Panel](images/admin-panel.png)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20Demo%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/CtPBRNmLV4w?si=iEifL-DyBVOSmuRZ)
 
 ### 🔹 Client Discussion (Blurred)
 ![Client Chat](clientproof.PNG)
